@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HWORX
-- 👀 I’m interested in FLUTTER/DART
+- 👀 I’m interested in React/or/Native/Pwa
 - 🌱 I’m currently learning > PHP
 
 <!---
