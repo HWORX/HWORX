@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HWORX
 - 👀 I’m interested in React/or/Native/Pwa
-- 🌱 I’m currently learning > PHP
+- 🌱 I’m currently learning and development > PHP, JS, (and frameworks!)
 - 🤘 telegram: @tarumar
 
 <!---
